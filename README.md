@@ -4,6 +4,8 @@ This simple project uses a NodeMCU - Aka Espressif ESP8266 - and cheap chinese w
 
 ![alt text](images/IMG_1044.jpg)
 
+![alt text](images/IMG_1045.jpg)
+
 My sensor supports multiple sensors, uses Wifi and MQTT to publish status updates.
 
 ## Install MicroPython
