@@ -2,6 +2,8 @@
 
 This simple project uses a NodeMCU - Aka Espressif ESP8266 - and cheap chinese water flow sensor YF-B1 and MicroPython.
 
+![alt text](images/IMG_1044.jpg)
+
 My sensor supports multiple sensors, uses Wifi and MQTT to publish status updates.
 
 ## Install MicroPython
